@@ -1,49 +1,75 @@
 
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Terms of Use - Better Me & World</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            line-height: 1.6;
+        }
+        h1, h2 {
+            color: #2c3e50;
+        }
+    </style>
+</head>
+<body>
+    <h1>Terms of Use</h1>
+    <p><strong>Effective Date:</strong> February 1, 2025</p>
 
-Effective Date: 01.Feb.2025
+    <p>Welcome to <strong>Better Me & World</strong>! By using our app, you agree to these Terms of Use. Please read them carefully before using our services.</p>
 
-Welcome to Better Me & World! By using our app, you agree to these Terms of Use. Please read them carefully before using our services.
+    <h2>1. Acceptance of Terms</h2>
+    <p>By accessing or using the <strong>Better Me & World</strong> app, you agree to be bound by these Terms. If you do not agree, please do not use our services.</p>
 
-1. Acceptance of Terms
- By accessing or using the Better Me & World app, you agree to be bound by these Terms. If you do not agree, please do not use our services.
+    <h2>2. User Accounts</h2>
+    <ul>
+        <li>You must provide accurate and complete information when creating an account.</li>
+        <li>You are responsible for keeping your login details secure.</li>
+        <li>We reserve the right to suspend or terminate accounts that violate these terms.</li>
+    </ul>
 
-2. User Accounts
+    <h2>3. App Features & Functionality</h2>
+    <ul>
+        <li><strong>Goal Tracking:</strong> Users can create, manage, and track their personal goals.</li>
+        <li><strong>Virtual Tree Growth:</strong> Completing goals nurtures a virtual tree, representing progress.</li>
+        <li><strong>Real Tree Planting:</strong> After earning three in-app rewards, we contribute to planting a real tree.</li>
+        <li><strong>Subscription Benefits:</strong> Subscribers receive premium features, such as unlimited goal creation and exclusive rewards.</li>
+    </ul>
 
- You must provide accurate and complete information when creating an account.
- You are responsible for keeping your login details secure.
- We reserve the right to suspend or terminate accounts that violate these terms.
+    <h2>4. Payments & Subscriptions</h2>
+    <ul>
+        <li>Some features require a paid subscription.</li>
+        <li>Subscriptions are billed through Apple’s App Store and auto-renew unless canceled.</li>
+        <li>See our <a href="subscription-terms.html">Subscription Terms</a> for more details.</li>
+    </ul>
 
-3. App Features & Functionality
+    <h2>5. User Responsibilities</h2>
+    <ul>
+        <li>You may not use the app for any illegal or harmful activities.</li>
+        <li>You may not attempt to hack, modify, or disrupt the app's functionality.</li>
+    </ul>
 
- Goal Tracking: Users can create, manage, and track their personal goals.
- Virtual Tree Growth: Completing goals nurtures a virtual tree, representing progress.
- Real Tree Planting: After earning three in-app rewards, we contribute to planting a real tree.
- Subscription Benefits: Subscribers receive premium features, such as unlimited goal creation and exclusive rewards.
+    <h2>6. Intellectual Property</h2>
+    <ul>
+        <li>All content in the app, including text, graphics, and logos, is owned by us or licensed for use.</li>
+        <li>You may not copy, distribute, or resell any part of the app.</li>
+    </ul>
 
-4. Payments & Subscriptions
- Some features require a paid subscription.
- Subscriptions are billed through Apple’s App Store and auto-renew unless canceled.
- See our Subscription Terms for more details.
+    <h2>7. Termination & Changes</h2>
+    <ul>
+        <li>We reserve the right to modify or discontinue the app at any time.</li>
+        <li>We may update these Terms; continued use of the app means you accept the new terms.</li>
+    </ul>
 
-5. User Responsibilities
+    <h2>8. Limitation of Liability</h2>
+    <p>We are not responsible for any losses, damages, or issues caused by the use of our app. The app is provided “as is” without warranties of any kind.</p>
 
- You may not use the app for any illegal or harmful activities.
- You may not attempt to hack, modify, or disrupt the app's functionality.
-
-6. Intellectual Property
-
- All content in the app, including text, graphics, and logos, is owned by us or licensed for use.
- You may not copy, distribute, or resell any part of the app.
-
-7. Termination & Changes
-
- We reserve the right to modify or discontinue the app at any time.
- We may update these Terms; continued use of the app means you accept the new terms.
-
-8. Limitation of Liability
- We are not responsible for any losses, damages, or issues caused by the use of our app.
- The app is provided “as is” without warranties of any kind.
-
-9. Contact Us
- For any questions about these Terms, contact us at earzybaeva@gmail.com
+    <h2>9. Contact Us</h2>
+    <p>For any questions about these Terms, contact us at <a href="mailto:earzybaeva@gmail.com">earzybaeva@gmail.com</a>.</p>
+</body>
+</html>
